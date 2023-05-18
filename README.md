@@ -17,10 +17,3 @@ In this project, I work with data from [Open Data Nepal](https://opendatanepal.c
 * Matplotlib
 * Seaborn
 * Scikit-learn
-
-## Featured Notebooks
-* [Gorkha Part 1](https://dpghazi.github.io/projects/wrangling-data-with-sql.html)
-* [Gorkha Part 2](https://dpghazi.github.io/projects/predicting-damage-with-logistic-regression.html)
-* [Gorkha Part 3](https://dpghazi.github.io/projects/predicting-damage-with-decision-trees.html)
-* [Gorkha Part 4](https://dpghazi.github.io/projects/demographics.html)
-* [Kavrepalanchok](https://dpghazi.github.io/projects/earthquake-damage-in-kavrepalanchok.html)
