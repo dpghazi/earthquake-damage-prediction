@@ -11,11 +11,4 @@ In this project, I work with data from [Open Data Nepal](https://opendatanepal.c
 
 ### Tools & Libraries
 * Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
-- SQL (SQLite)
-* Python
-* SQL
-* Jupyter
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
+* SQL (SQLite)
