@@ -14,4 +14,8 @@ In this project, I work with data from [Open Data Nepal](https://opendatanepal.c
 * SQL (SQLite)
 
 ### Featured Notebooks
-* Part 1
+* [Gorkha Part 1](https://dpghazi-wqu-ds.s3.amazonaws.com/wrangling-data-with-sql.html)
+* [Gorkha Part 2](https://dpghazi-wqu-ds.s3.amazonaws.com/predicting-damage-with-logistic-regression.html)
+* [Gorkha Part 3](https://dpghazi-wqu-ds.s3.amazonaws.com/predicting-damage-with-decision-trees.html)
+* [Gorkha Part 4](https://dpghazi-wqu-ds.s3.amazonaws.com/gradient-boosting.html)
+* [Kavrepalanchok](https://dpghazi-wqu-ds.s3.amazonaws.com/earthquake-damage-in-kavrepalanchok.html)
